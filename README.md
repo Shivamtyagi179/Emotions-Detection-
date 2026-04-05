@@ -35,24 +35,9 @@ Other Tools: OpenCV / NLP libraries (if applicable)
 
 
 ---
+                                                          Project Demo 
 
-Project Structure
-
-emotion-detection/
-│── data/               # Dataset (not included if large)
-
-│── models/             # Trained models
-
-│── src/                # Source code
-
-│── notebooks/          # Jupyter notebooks
-
-│── requirements.txt    # Dependencies
-
-│── README.md           # Project documentation
-
-│── .gitignore          # Ignored files
-
+<img width="774" height="496" alt="image" src="https://github.com/user-attachments/assets/99001906-1501-4362-a60e-c0737a581e42" />
 
 
 ---
