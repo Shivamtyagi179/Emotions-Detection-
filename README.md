@@ -117,8 +117,4 @@ Shivam Tyagi
 
 https://github.com/Shivamtyagi179
 
-Your Name
-
-GitHub: https://github.com/your-username
-
 https://www.linkedin.com/in/shivamtyagi17
