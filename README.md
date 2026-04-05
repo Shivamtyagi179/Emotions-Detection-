@@ -40,11 +40,17 @@ Project Structure
 
 emotion-detection/
 │── data/               # Dataset (not included if large)
+
 │── models/             # Trained models
+
 │── src/                # Source code
+
 │── notebooks/          # Jupyter notebooks
+
 │── requirements.txt    # Dependencies
+
 │── README.md           # Project documentation
+
 │── .gitignore          # Ignored files
 
 
